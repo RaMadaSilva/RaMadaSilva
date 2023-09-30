@@ -18,5 +18,4 @@ evolução do desenvolvimento de software.
 ![](https://github-readme-stats.vercel.app/api?username=RaMadaSilva&theme=blue-green)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RaMadaSilva&theme=blue-green&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaMadaSilva&theme=blue-green)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaMadaSilva&theme=blue-green)
 
