@@ -18,7 +18,7 @@ evolução do desenvolvimento de software.
 ## :rocket:  GITHUB STATUS
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaMadaSilva&layout=compact&theme=blue-green)
-![](https://github-readme-stats.vercel.app/api?username=RaMadaSilva&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api?username=RaMadaSilva&show_icons=true&theme=blue-green)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RaMadaSilva&theme=blue-green&hide_border=false) 
 
 
